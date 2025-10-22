@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.streamlit/
+
+data/history/*.csv
+data/saved_drawings/
+*.png
+
+models/classification/
+models/ner/

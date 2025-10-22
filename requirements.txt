@@ -1,0 +1,23 @@
+# Web UI
+streamlit==1.50.0
+
+# ML core
+transformers==4.57.1
+torch==2.9.0
+accelerate==1.10.1
+safetensors==0.6.2
+tokenizers==0.22.1
+
+# Data & metrics
+pandas==2.3.3
+scikit-learn==1.7.2
+datasets==4.2.0
+evaluate==0.4.6
+numpy==2.2.6
+
+# Automation
+pyautogui==0.9.54
+pillow==11.3.0
+
+# Excel support
+openpyxl==3.1.5
